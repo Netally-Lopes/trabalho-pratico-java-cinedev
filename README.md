@@ -4,8 +4,8 @@
 O projeto desenvolvido na linguagem java visa simular a gestão de uma sala de cinema, permitindo reservar e cancelar assentos, visualizar o mapa da sala e gerar relatórios.
 
 ## Integrantes
-- Netally Lopes Gonçalves  
-- Victória Liberknesh Batista  
+- Netally Lopes Gonçalves-471446  
+- Victória Lieberknecht Batista-360315 
 
 ## Como executar
 - Pelo NetBeans: abra o projeto e rode a classe `Principal.java`.  
